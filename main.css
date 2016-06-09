@@ -1,13 +1,18 @@
 body {
-    background-color:pink;
+font-family: 'Nunito', sans-serif;  
+    background-color:blue;
     color: black;
     }
     
+ul{
+    font-family: 'Lobster', cursive;
+    
+}    
     #L1{
-        COLOR:BLUE;
+        COLOR:white;
     }
     
     #L2{
-        COLOR:ORANGE;
+        COLOR:white;
     }
     
