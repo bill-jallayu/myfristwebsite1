@@ -1,13 +1,17 @@
 body {
 font-family: 'Nunito', sans-serif;  
-    background-color:blue;
+    background-image: url(img/favicon.ico);
+    background-size: cover;
     color: black;
     }
     
 ul{
     font-family: 'Lobster', cursive;
-    
-}    
+  font-size: 50px;  
+} 
+
+  
+
     #L1{
         COLOR:white;
     }
